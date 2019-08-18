@@ -5,6 +5,6 @@ There's something about League of Legends and and its special brand of stupid pl
 
 ### I have no idea if Riot Games care about messing with keyboard input, use at your own risk.
 
-Uses [gmamaladze's mousekeyhook library](https://github.com/gmamaladze/globalmousekeyhookhttps://github.com/gmamaladze/globalmousekeyhook) to block enter key.
+Uses [gmamaladze's mousekeyhook library](https://github.com/gmamaladze/globalmousekeyhook) to block enter key.
 
 Works on other games too I guess.
